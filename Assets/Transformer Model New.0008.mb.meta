@@ -1,0 +1,1488 @@
+fileFormatVersion: 2
+guid: 6c25f6fb6edbac743a0ca701ef556e94
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: ArmGroup
+    100002: ArmGroup1
+    100004: ArmHand:pCube10
+    100006: ArmHand:pCube11
+    100008: ArmHand:pCube12
+    100010: ArmHand:pCube13
+    100012: ArmHand:pCube14
+    100014: ArmHand:pCube15
+    100016: ArmHand:pCube16
+    100018: ArmHand:pCube17
+    100020: ArmHand:pCube3
+    100022: ArmHand:pCube4
+    100024: ArmHand:pCube5
+    100026: ArmHand:pCube6
+    100028: ArmHand:pCube7
+    100030: ArmHand:pCube8
+    100032: ArmHand:pCube9
+    100034: ArmHand:pCylinder1
+    100036: ArmHand:pSphere10
+    100038: ArmHand:pSphere11
+    100040: ArmHand:pSphere12
+    100042: ArmHand:pSphere13
+    100044: ArmHand:pSphere14
+    100046: ArmHand:pSphere2
+    100048: ArmHand:pSphere3
+    100050: ArmHand:pSphere4
+    100052: ArmHand:pSphere5
+    100054: ArmHand:pSphere6
+    100056: ArmHand:pSphere7
+    100058: ArmHand:pSphere8
+    100060: ArmHand:pSphere9
+    100062: chestForExport:pCube1
+    100064: group1
+    100066: group10
+    100068: group2
+    100070: group3
+    100072: group3 1
+    100074: group4
+    100076: group5
+    100078: group6
+    100080: group7
+    100082: group8
+    100084: group8 1
+    100086: group9
+    100088: headFinished_for_import:pCube2
+    100090: joint1
+    100092: joint11
+    100094: joint12
+    100096: joint13
+    100098: joint14
+    100100: joint15
+    100102: joint16
+    100104: joint17
+    100106: joint18
+    100108: joint19
+    100110: joint2
+    100112: joint20
+    100114: joint21
+    100116: joint22
+    100118: joint23
+    100120: joint24
+    100122: joint25
+    100124: joint26
+    100126: joint27
+    100128: joint28
+    100130: joint29
+    100132: joint3
+    100134: joint30
+    100136: joint31
+    100138: joint32
+    100140: joint33
+    100142: joint34
+    100144: joint35
+    100146: joint36
+    100148: joint37
+    100150: joint38
+    100152: joint39
+    100154: joint4
+    100156: joint40
+    100158: joint41
+    100160: joint42
+    100162: joint43
+    100164: joint44
+    100166: joint45
+    100168: joint46
+    100170: joint47
+    100172: joint48
+    100174: joint49
+    100176: joint5
+    100178: joint50
+    100180: joint6
+    100182: joint7
+    100184: joint8
+    100186: joint9
+    100188: LegGroup
+    100190: LegGroup 1
+    100192: Legs:pCube1
+    100194: Legs:pCube2
+    100196: Legs:pCube3
+    100198: Legs:pCylinder1
+    100200: Legs:pCylinder2
+    100202: lowerTorso:pCube1
+    100204: pCube1
+    100206: pCube10
+    100208: pCube11
+    100210: pCube12
+    100212: pCube13
+    100214: pCube14
+    100216: pCube15
+    100218: pCube16
+    100220: pCube17
+    100222: pCube2
+    100224: pCube3
+    100226: pCube3 1
+    100228: pCube4
+    100230: pCube5
+    100232: pCube6
+    100234: pCube7
+    100236: pCube8
+    100238: pCube9
+    100240: pCylinder1
+    100242: pCylinder1 1
+    100244: pCylinder1 2
+    100246: pCylinder2
+    100248: pSphere10
+    100250: pSphere11
+    100252: pSphere11 1
+    100254: pSphere12
+    100256: pSphere13
+    100258: pSphere14
+    100260: pSphere15
+    100262: pSphere16
+    100264: pSphere2
+    100266: pSphere3
+    100268: pSphere4
+    100270: pSphere5
+    100272: pSphere6
+    100274: pSphere7
+    100276: pSphere8
+    100278: pSphere9
+    100280: //RootNode
+    400000: ArmGroup
+    400002: ArmGroup1
+    400004: ArmHand:pCube10
+    400006: ArmHand:pCube11
+    400008: ArmHand:pCube12
+    400010: ArmHand:pCube13
+    400012: ArmHand:pCube14
+    400014: ArmHand:pCube15
+    400016: ArmHand:pCube16
+    400018: ArmHand:pCube17
+    400020: ArmHand:pCube3
+    400022: ArmHand:pCube4
+    400024: ArmHand:pCube5
+    400026: ArmHand:pCube6
+    400028: ArmHand:pCube7
+    400030: ArmHand:pCube8
+    400032: ArmHand:pCube9
+    400034: ArmHand:pCylinder1
+    400036: ArmHand:pSphere10
+    400038: ArmHand:pSphere11
+    400040: ArmHand:pSphere12
+    400042: ArmHand:pSphere13
+    400044: ArmHand:pSphere14
+    400046: ArmHand:pSphere2
+    400048: ArmHand:pSphere3
+    400050: ArmHand:pSphere4
+    400052: ArmHand:pSphere5
+    400054: ArmHand:pSphere6
+    400056: ArmHand:pSphere7
+    400058: ArmHand:pSphere8
+    400060: ArmHand:pSphere9
+    400062: chestForExport:pCube1
+    400064: group1
+    400066: group10
+    400068: group2
+    400070: group3
+    400072: group3 1
+    400074: group4
+    400076: group5
+    400078: group6
+    400080: group7
+    400082: group8
+    400084: group8 1
+    400086: group9
+    400088: headFinished_for_import:pCube2
+    400090: joint1
+    400092: joint11
+    400094: joint12
+    400096: joint13
+    400098: joint14
+    400100: joint15
+    400102: joint16
+    400104: joint17
+    400106: joint18
+    400108: joint19
+    400110: joint2
+    400112: joint20
+    400114: joint21
+    400116: joint22
+    400118: joint23
+    400120: joint24
+    400122: joint25
+    400124: joint26
+    400126: joint27
+    400128: joint28
+    400130: joint29
+    400132: joint3
+    400134: joint30
+    400136: joint31
+    400138: joint32
+    400140: joint33
+    400142: joint34
+    400144: joint35
+    400146: joint36
+    400148: joint37
+    400150: joint38
+    400152: joint39
+    400154: joint4
+    400156: joint40
+    400158: joint41
+    400160: joint42
+    400162: joint43
+    400164: joint44
+    400166: joint45
+    400168: joint46
+    400170: joint47
+    400172: joint48
+    400174: joint49
+    400176: joint5
+    400178: joint50
+    400180: joint6
+    400182: joint7
+    400184: joint8
+    400186: joint9
+    400188: LegGroup
+    400190: LegGroup 1
+    400192: Legs:pCube1
+    400194: Legs:pCube2
+    400196: Legs:pCube3
+    400198: Legs:pCylinder1
+    400200: Legs:pCylinder2
+    400202: lowerTorso:pCube1
+    400204: pCube1
+    400206: pCube10
+    400208: pCube11
+    400210: pCube12
+    400212: pCube13
+    400214: pCube14
+    400216: pCube15
+    400218: pCube16
+    400220: pCube17
+    400222: pCube2
+    400224: pCube3
+    400226: pCube3 1
+    400228: pCube4
+    400230: pCube5
+    400232: pCube6
+    400234: pCube7
+    400236: pCube8
+    400238: pCube9
+    400240: pCylinder1
+    400242: pCylinder1 1
+    400244: pCylinder1 2
+    400246: pCylinder2
+    400248: pSphere10
+    400250: pSphere11
+    400252: pSphere11 1
+    400254: pSphere12
+    400256: pSphere13
+    400258: pSphere14
+    400260: pSphere15
+    400262: pSphere16
+    400264: pSphere2
+    400266: pSphere3
+    400268: pSphere4
+    400270: pSphere5
+    400272: pSphere6
+    400274: pSphere7
+    400276: pSphere8
+    400278: pSphere9
+    400280: //RootNode
+    2300000: ArmHand:pCube10
+    2300002: ArmHand:pCube11
+    2300004: ArmHand:pCube12
+    2300006: ArmHand:pCube13
+    2300008: ArmHand:pCube14
+    2300010: ArmHand:pCube15
+    2300012: ArmHand:pCube16
+    2300014: ArmHand:pCube17
+    2300016: ArmHand:pCube3
+    2300018: ArmHand:pCube4
+    2300020: ArmHand:pCube5
+    2300022: ArmHand:pCube6
+    2300024: ArmHand:pCube7
+    2300026: ArmHand:pCube8
+    2300028: ArmHand:pCube9
+    2300030: ArmHand:pCylinder1
+    2300032: ArmHand:pSphere10
+    2300034: ArmHand:pSphere11
+    2300036: ArmHand:pSphere12
+    2300038: ArmHand:pSphere13
+    2300040: ArmHand:pSphere14
+    2300042: ArmHand:pSphere2
+    2300044: ArmHand:pSphere3
+    2300046: ArmHand:pSphere4
+    2300048: ArmHand:pSphere5
+    2300050: ArmHand:pSphere6
+    2300052: ArmHand:pSphere7
+    2300054: ArmHand:pSphere8
+    2300056: ArmHand:pSphere9
+    2300058: chestForExport:pCube1
+    2300060: headFinished_for_import:pCube2
+    2300062: Legs:pCube1
+    2300064: Legs:pCube2
+    2300066: Legs:pCube3
+    2300068: Legs:pCylinder1
+    2300070: Legs:pCylinder2
+    2300072: lowerTorso:pCube1
+    2300074: pCube1
+    2300076: pCube10
+    2300078: pCube11
+    2300080: pCube12
+    2300082: pCube13
+    2300084: pCube14
+    2300086: pCube15
+    2300088: pCube16
+    2300090: pCube17
+    2300092: pCube2
+    2300094: pCube3
+    2300096: pCube3 1
+    2300098: pCube4
+    2300100: pCube5
+    2300102: pCube6
+    2300104: pCube7
+    2300106: pCube8
+    2300108: pCube9
+    2300110: pCylinder1
+    2300112: pCylinder1 1
+    2300114: pCylinder1 2
+    2300116: pCylinder2
+    2300118: pSphere10
+    2300120: pSphere11
+    2300122: pSphere11 1
+    2300124: pSphere12
+    2300126: pSphere13
+    2300128: pSphere14
+    2300130: pSphere15
+    2300132: pSphere16
+    2300134: pSphere2
+    2300136: pSphere3
+    2300138: pSphere4
+    2300140: pSphere5
+    2300142: pSphere6
+    2300144: pSphere7
+    2300146: pSphere8
+    2300148: pSphere9
+    3300000: ArmHand:pCube10
+    3300002: ArmHand:pCube11
+    3300004: ArmHand:pCube12
+    3300006: ArmHand:pCube13
+    3300008: ArmHand:pCube14
+    3300010: ArmHand:pCube15
+    3300012: ArmHand:pCube16
+    3300014: ArmHand:pCube17
+    3300016: ArmHand:pCube3
+    3300018: ArmHand:pCube4
+    3300020: ArmHand:pCube5
+    3300022: ArmHand:pCube6
+    3300024: ArmHand:pCube7
+    3300026: ArmHand:pCube8
+    3300028: ArmHand:pCube9
+    3300030: ArmHand:pCylinder1
+    3300032: ArmHand:pSphere10
+    3300034: ArmHand:pSphere11
+    3300036: ArmHand:pSphere12
+    3300038: ArmHand:pSphere13
+    3300040: ArmHand:pSphere14
+    3300042: ArmHand:pSphere2
+    3300044: ArmHand:pSphere3
+    3300046: ArmHand:pSphere4
+    3300048: ArmHand:pSphere5
+    3300050: ArmHand:pSphere6
+    3300052: ArmHand:pSphere7
+    3300054: ArmHand:pSphere8
+    3300056: ArmHand:pSphere9
+    3300058: chestForExport:pCube1
+    3300060: headFinished_for_import:pCube2
+    3300062: Legs:pCube1
+    3300064: Legs:pCube2
+    3300066: Legs:pCube3
+    3300068: Legs:pCylinder1
+    3300070: Legs:pCylinder2
+    3300072: lowerTorso:pCube1
+    3300074: pCube1
+    3300076: pCube10
+    3300078: pCube11
+    3300080: pCube12
+    3300082: pCube13
+    3300084: pCube14
+    3300086: pCube15
+    3300088: pCube16
+    3300090: pCube17
+    3300092: pCube2
+    3300094: pCube3
+    3300096: pCube3 1
+    3300098: pCube4
+    3300100: pCube5
+    3300102: pCube6
+    3300104: pCube7
+    3300106: pCube8
+    3300108: pCube9
+    3300110: pCylinder1
+    3300112: pCylinder1 1
+    3300114: pCylinder1 2
+    3300116: pCylinder2
+    3300118: pSphere10
+    3300120: pSphere11
+    3300122: pSphere11 1
+    3300124: pSphere12
+    3300126: pSphere13
+    3300128: pSphere14
+    3300130: pSphere15
+    3300132: pSphere16
+    3300134: pSphere2
+    3300136: pSphere3
+    3300138: pSphere4
+    3300140: pSphere5
+    3300142: pSphere6
+    3300144: pSphere7
+    3300146: pSphere8
+    3300148: pSphere9
+    4300000: pCube15
+    4300002: pCube12
+    4300004: pSphere13
+    4300006: pSphere10
+    4300008: pCube9
+    4300010: pCube16
+    4300012: pCube13
+    4300014: pSphere11
+    4300016: pCube10
+    4300018: pSphere9
+    4300020: pCube14
+    4300022: pCube11
+    4300024: pSphere12
+    4300026: pCube8
+    4300028: pSphere8
+    4300030: pCube7
+    4300032: pCube6
+    4300034: pSphere4
+    4300036: pCube5
+    4300038: pSphere7
+    4300040: pSphere6
+    4300042: pSphere5
+    4300044: pSphere3
+    4300046: pCube4
+    4300048: pSphere2
+    4300050: pCube3
+    4300052: pCylinder1
+    4300054: ArmHand:pCube7
+    4300056: ArmHand:pCube6
+    4300058: ArmHand:pSphere4
+    4300060: ArmHand:pCube14
+    4300062: ArmHand:pCube11
+    4300064: ArmHand:pSphere12
+    4300066: ArmHand:pCube8
+    4300068: ArmHand:pSphere8
+    4300070: ArmHand:pCube16
+    4300072: ArmHand:pCube13
+    4300074: ArmHand:pSphere11
+    4300076: ArmHand:pCube10
+    4300078: ArmHand:pSphere9
+    4300080: ArmHand:pCube15
+    4300082: ArmHand:pCube12
+    4300084: ArmHand:pSphere13
+    4300086: ArmHand:pCube9
+    4300088: ArmHand:pSphere10
+    4300090: ArmHand:pCube5
+    4300092: ArmHand:pSphere7
+    4300094: ArmHand:pSphere6
+    4300096: ArmHand:pSphere5
+    4300098: ArmHand:pSphere3
+    4300100: ArmHand:pCube4
+    4300102: ArmHand:pSphere2
+    4300104: ArmHand:pCube3
+    4300106: ArmHand:pCylinder1
+    4300108: headFinished_for_import:pCube2
+    4300110: chestForExport:pCube1
+    4300112: ArmHand:pCube17
+    4300114: ArmHand:pSphere14
+    4300116: pSphere11
+    4300118: pSphere14
+    4300120: pCube17
+    4300122: pCylinder1
+    4300124: Legs:pCube3
+    4300126: Legs:pCube2
+    4300128: Legs:pCylinder2
+    4300130: Legs:pCube1
+    4300132: Legs:pCylinder1
+    4300134: pCube3
+    4300136: pCube2
+    4300138: pCylinder2
+    4300140: pCube1
+    4300142: pCylinder1
+    4300144: lowerTorso:pCube1
+    4300146: pSphere16
+    4300148: pSphere15
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: joint1
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint11
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint15
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint12
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint16
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Legs:pCube2
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: pCube2
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint2
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint7
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint4
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint8
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint5
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint9
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint6
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ArmHand:pCube5
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint39
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Legs:pCylinder2
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: pCylinder2
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ArmHand:pSphere3
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ArmHand:pSphere5
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ArmHand:pSphere6
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ArmHand:pSphere7
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: pSphere3
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: pSphere5
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: pSphere6
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: pSphere7
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint3
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Transformer Model New.0008(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ArmGroup
+      position: {x: 0, y: .336376697, z: 1.38777878e-17}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: .300229609, y: .300229609, z: .300229609}
+      transformModified: 1
+    - name: group8
+      position: {x: -2.83292413, y: 9.32587341e-15, z: -.2165014}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .909285307, y: .909285307, z: .909285307}
+      transformModified: 1
+    - name: ArmGroup1
+      position: {x: 0, y: .336376697, z: 1.38777878e-17}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: -.300000012, y: .300229609, z: .300229609}
+      transformModified: 1
+    - name: group8 1
+      position: {x: -2.83292413, y: 9.32587341e-15, z: -.2165014}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .909285307, y: .909285307, z: .909285307}
+      transformModified: 1
+    - name: group1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: group2
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: group4
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: group3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: group5
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: -1, y: 1, z: 1}
+      transformModified: 1
+    - name: group3 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: group6
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: group7
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: -1, y: 1, z: 1}
+      transformModified: 1
+    - name: group9
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LegGroup 1
+      position: {x: -.355564386, y: -1.36428952, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .383791178, y: .383791178, z: .383791178}
+      transformModified: 1
+    - name: group10
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: -1, y: 1, z: 1}
+      transformModified: 1
+    - name: LegGroup
+      position: {x: -.355564386, y: -1.36428952, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .383791178, y: .383791178, z: .383791178}
+      transformModified: 1
+    - name: joint1
+      position: {x: -.00560180005, y: -.723640859, z: -.0610277988}
+      rotation: {x: 0, y: 0, z: -.70561254, w: .708597898}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: joint2
+      position: {x: -.196844503, y: -.00214833906, z: 0}
+      rotation: {x: 0, y: 0, z: .00387886888, w: .99999249}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: chestForExport:pCube1
+      position: {x: -.477282584, y: .014299796, z: .0610277988}
+      rotation: {x: 0, y: 0, z: .702858686, w: .711329579}
+      scale: {x: 1.20747507, y: .677775085, z: .301868767}
+      transformModified: 1
+    - name: ArmHand:pCube17
+      position: {x: -.601469815, y: .569162607, z: -.215325788}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .248642489, y: .442963511, z: .994569957}
+      transformModified: 1
+    - name: ArmHand:pSphere14
+      position: {x: -.432325214, y: -.245136708, z: -.0481303893}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .447611988, y: .447611988, z: .447611988}
+      transformModified: 1
+    - name: pCube17
+      position: {x: .601009846, y: .569162607, z: -.215325788}
+      rotation: {x: 2.83276934e-16, y: 1, z: -6.12323426e-17, w: -6.12323426e-17}
+      scale: {x: .248452336, y: .442963511, z: -.994569957}
+      transformModified: 1
+    - name: pCylinder1 1
+      position: {x: .319168985, y: .641253829, z: -.0188803058}
+      rotation: {x: .706014633, y: 3.88505194e-17, z: 3.8970626e-17, w: .708197296}
+      scale: {x: .378460169, y: 2.81533885, z: .674250305}
+      transformModified: 1
+    - name: pSphere11
+      position: {x: -.00612673629, y: .483086556, z: 9.27808286e-13}
+      rotation: {x: 1.33327221e-16, y: 7.57074681e-11, z: -1.11015639e-16, w: 1}
+      scale: {x: .828174412, y: 1.47541571, z: 3.31269765}
+      transformModified: 1
+    - name: pSphere14
+      position: {x: .708422065, y: .460575998, z: -.263194829}
+      rotation: {x: 2.83276934e-16, y: 1, z: -6.12323426e-17, w: -6.12323426e-17}
+      scale: {x: .111210242, y: .198275775, z: -.445181459}
+      transformModified: 1
+    - name: joint3
+      position: {x: -.78764528, y: .00609572465, z: 0}
+      rotation: {x: -.701954603, y: .712221742, z: 5.30646549e-09, w: -5.22996935e-09}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint4
+      position: {x: -.865620971, y: -2.40867715e-16, z: -2.8886698e-24}
+      rotation: {x: 0, y: 0, z: .00959754549, w: .999953985}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint5
+      position: {x: -.619256794, y: -2.04905761e-15, z: -1.77117307e-10}
+      rotation: {x: 0, y: 0, z: -.0264846738, w: .999649227}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint6
+      position: {x: -.646343768, y: -3.43839472e-16, z: 3.25284022e-10}
+      rotation: {x: -.00233623921, y: .149555787, z: .0154435756, w: .988629937}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint34
+      position: {x: -.232727379, y: 3.92675905e-17, z: 1.25858918e-16}
+      rotation: {x: 0, y: -.143953979, z: -0, w: .989584386}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint35
+      position: {x: -.110324785, y: 4.9031923e-10, z: 9.38919081e-17}
+      rotation: {x: 0, y: -.0158835705, z: -0, w: .999873877}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint36
+      position: {x: -.0614396706, y: 3.02100317e-10, z: -2.66713734e-17}
+      rotation: {x: 0, y: .0198155679, z: -0, w: .999803662}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint37
+      position: {x: -.0651997626, y: 2.82092183e-10, z: 5.2909066e-17}
+      rotation: {x: 2.23523466e-09, y: .999953806, z: 7.47239159e-09, w: .00961405132}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCube15
+      position: {x: -.0299360007, y: .0123136928, z: -.000215414038}
+      rotation: {x: 7.47239159e-09, y: -.00961405132, z: -2.23523489e-09, w: .999953806}
+      scale: {x: .0506367162, y: .0341468453, z: -.0378907174}
+      transformModified: 1
+    - name: pCube12
+      position: {x: -.0326689929, y: .0123136928, z: .00156428898}
+      rotation: {x: 7.4266322e-09, y: .0102024879, z: -2.38286568e-09, w: .999947965}
+      scale: {x: .0529383682, y: .0397955738, z: -.0441587754}
+      transformModified: 1
+    - name: pSphere13
+      position: {x: -.504204929, y: -.0165979303, z: -.00658702292}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .321761072, y: .428352743, z: .386028439}
+      transformModified: 1
+    - name: pCube9
+      position: {x: -.0608977489, y: .0123136928, z: .00133408781}
+      rotation: {x: 7.46354356e-09, y: -.00568154315, z: -2.26460362e-09, w: .999983847}
+      scale: {x: .0956795141, y: .0397955738, z: -.0487943739}
+      transformModified: 1
+    - name: pSphere10
+      position: {x: -.108713157, y: .0116531691, z: .00219812314}
+      rotation: {x: 7.46354356e-09, y: -.00568154315, z: -2.26460362e-09, w: .999983847}
+      scale: {x: .0206593554, y: .0206751693, z: -.0206751693}
+      transformModified: 1
+    - name: joint38
+      position: {x: -.211136073, y: 1.02162601e-09, z: -.0654926598}
+      rotation: {x: 0, y: -.144578621, z: -0, w: .98949331}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint39
+      position: {x: -.124113701, y: 5.53944168e-10, z: -2.77555756e-17}
+      rotation: {x: 0, y: -.0156863835, z: -0, w: .999876976}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint40
+      position: {x: -.0589329973, y: 2.90532154e-10, z: -5.89805982e-17}
+      rotation: {x: 0, y: .0294913948, z: -0, w: .999565065}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint41
+      position: {x: -.0664886087, y: 2.6919611e-10, z: 4.16333634e-17}
+      rotation: {x: 0, y: .130901709, z: -0, w: .991395354}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCube16
+      position: {x: -.0326826572, y: .0123136928, z: .00223248452}
+      rotation: {x: 7.49273621e-09, y: -.0188578591, z: -2.16605978e-09, w: .999822199}
+      scale: {x: .0506367162, y: .0341468453, z: -.0378907174}
+      transformModified: 1
+    - name: pCube13
+      position: {x: -.0338866375, y: .0123136928, z: .0017224102}
+      rotation: {x: 7.42559703e-09, y: .0106364926, z: -2.38608866e-09, w: .999943435}
+      scale: {x: .0529383682, y: .0397955738, z: -.0441587754}
+      transformModified: 1
+    - name: pSphere11 1
+      position: {x: -.437501341, y: -.0165979303, z: -.0291353371}
+      rotation: {x: 0, y: 0, z: -1.1754679e-17, w: 1}
+      scale: {x: .321761072, y: .428352743, z: .386028439}
+      transformModified: 1
+    - name: pCube10
+      position: {x: -.0695200861, y: .0123136928, z: .00177233166}
+      rotation: {x: 7.46211271e-09, y: -.0050503118, z: -2.26931451e-09, w: .999987245}
+      scale: {x: .112617306, y: .0397955738, z: -.0487943739}
+      transformModified: 1
+    - name: pSphere9
+      position: {x: -.500932992, y: -.0165979303, z: -.0218663197}
+      rotation: {x: 1.56325837e-34, y: 6.25151633e-18, z: -2.50060653e-17, w: 1}
+      scale: {x: .183447435, y: .519534349, z: .42372033}
+      transformModified: 1
+    - name: joint42
+      position: {x: -.195447221, y: 2.01034767e-09, z: -.128875941}
+      rotation: {x: 0, y: -.149574026, z: -0, w: .988750517}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint43
+      position: {x: -.107810445, y: 4.97431263e-10, z: 1.11022302e-16}
+      rotation: {x: 0, y: .0102024879, z: -0, w: .999947965}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint44
+      position: {x: -.0614396706, y: 2.64739952e-10, z: 1.52655666e-16}
+      rotation: {x: 0, y: -.0200039968, z: -0, w: .999799907}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint45
+      position: {x: -.0639463887, y: 3.1366848e-10, z: -2.70616862e-16}
+      rotation: {x: 0, y: .159259096, z: -0, w: .987236857}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCube14
+      position: {x: -.0299581736, y: .0123136928, z: -.000908338523}
+      rotation: {x: 7.42758433e-09, y: .00980250817, z: -2.37989473e-09, w: .999951959}
+      scale: {x: .0506367162, y: .0341468453, z: -.0378907174}
+      transformModified: 1
+    - name: pCube11
+      position: {x: -.0327067561, y: .0123136928, z: .000286061637}
+      rotation: {x: 7.4737061e-09, y: -.0102024879, z: -2.23083729e-09, w: .999947965}
+      scale: {x: .0529383682, y: .0397955738, z: -.0441587754}
+      transformModified: 1
+    - name: pSphere12
+      position: {x: -.490788639, y: -.0165979303, z: .0187450964}
+      rotation: {x: 0, y: 2.75500284e-19, z: -0, w: 1}
+      scale: {x: .321761072, y: .428352743, z: .386028439}
+      transformModified: 1
+    - name: pCube8
+      position: {x: -.0583714396, y: .0123136928, z: .00214316696}
+      rotation: {x: 7.45055662e-09, y: -9.38340783e-17, z: -2.3069715e-09, w: 1}
+      scale: {x: .0956795141, y: .0397955738, z: -.0487943739}
+      transformModified: 1
+    - name: pSphere8
+      position: {x: -.499610633, y: -.0165979303, z: .0331785828}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .215922475, y: .519534349, z: .42372033}
+      transformModified: 1
+    - name: joint46
+      position: {x: -.0317524299, y: 2.05900874e-09, z: -.131995425}
+      rotation: {x: -1.35577248e-23, y: -.681153059, z: -1.06253681e-08, w: .732141078}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint47
+      position: {x: -.0861349478, y: 1.57688501e-18, z: -2.08166817e-17}
+      rotation: {x: 0, y: .241517946, z: -0, w: .970396399}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint48
+      position: {x: -.0711140484, y: -5.1997584e-10, z: -3.46944695e-16}
+      rotation: {x: -7.09080394e-09, y: .484163254, z: 1.28144695e-08, w: .874977708}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCube7
+      position: {x: -.0327477045, y: .0118712597, z: .0034540107}
+      rotation: {x: 2.31718689e-09, y: .704196274, z: 7.44738582e-09, w: .710005343}
+      scale: {x: .0386602618, y: .0386730954, z: -.0634930059}
+      transformModified: 1
+    - name: pCube6
+      position: {x: -.0405674502, y: .0118712597, z: .00564096542}
+      rotation: {x: 5.63447111e-09, y: .691464782, z: 5.39311085e-09, w: .722410202}
+      scale: {x: .0450607464, y: .0450916439, z: -.0740570873}
+      transformModified: 1
+    - name: pSphere4
+      position: {x: -.0279473513, y: -.00483663101, z: .571305156}
+      rotation: {x: 0, y: .102095924, z: -0, w: .99477458}
+      scale: {x: .45079881, y: .466320992, z: .293685168}
+      transformModified: 1
+    - name: pCube5
+      position: {x: -.109878018, y: .0142488005, z: -.0286649093}
+      rotation: {x: 7.71180453e-09, y: -.149574026, z: -1.16660948e-09, w: .988750517}
+      scale: {x: .222077355, y: .0968454927, z: -.207004249}
+      transformModified: 1
+    - name: pSphere3
+      position: {x: .169390485, y: -.026801765, z: .552190602}
+      rotation: {x: -3.48569085e-09, y: 1.53578472e-17, z: -5.29013944e-09, w: 1}
+      scale: {x: .146337062, y: .335823804, z: .157112822}
+      transformModified: 1
+    - name: pSphere5
+      position: {x: -.488779932, y: -.026801765, z: .323098004}
+      rotation: {x: -3.48569085e-09, y: 1.53578472e-17, z: -5.29013944e-09, w: 1}
+      scale: {x: .125220403, y: .287363917, z: .134441197}
+      transformModified: 1
+    - name: pSphere6
+      position: {x: -.488779932, y: -.0268017743, z: .00849131402}
+      rotation: {x: -3.48569085e-09, y: 1.53578472e-17, z: -5.29013944e-09, w: 1}
+      scale: {x: .125220403, y: .287363917, z: .134441197}
+      transformModified: 1
+    - name: pSphere7
+      position: {x: -.488779932, y: -.0268017799, z: -.315475821}
+      rotation: {x: 0, y: -3.08194241e-18, z: -0, w: 1}
+      scale: {x: .125220403, y: .287363917, z: .134441197}
+      transformModified: 1
+    - name: pCube4
+      position: {x: -.367913455, y: .0209069233, z: .00507181603}
+      rotation: {x: 7.44935269e-09, y: 1.35296913e-10, z: .0156192826, w: .999878049}
+      scale: {x: .593997777, y: .271835208, z: -.271835208}
+      transformModified: 1
+    - name: pSphere2
+      position: {x: -.468786955, y: -.00968205743, z: .00404467341}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .130319491, y: .284984201, z: .284984201}
+      transformModified: 1
+    - name: pCube3 1
+      position: {x: -.281743377, y: .0174050741, z: .00397233106}
+      rotation: {x: 7.45032214e-09, y: -6.2044217e-11, z: -.0108676394, w: .999940932}
+      scale: {x: .455334008, y: .272899806, z: -.272899806}
+      transformModified: 1
+    - name: pCylinder1 2
+      position: {x: -.726921558, y: -.0698565394, z: -.0271575991}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .571619987, y: .954479337, z: 1.33386445}
+      transformModified: 1
+    - name: joint7
+      position: {x: .850019217, y: -.00957577676, z: -1.42690193e-10}
+      rotation: {x: .00912279263, y: .999958396, z: 1.48993005e-08, w: 1.35928893e-10}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ArmHand:pCube3
+      position: {x: -.274365932, y: .020806469, z: -.0039723306}
+      rotation: {x: 7.44928341e-09, y: 1.94437355e-10, z: -.00785267632, w: .999969184}
+      scale: {x: .455682516, y: .272899806, z: .272899806}
+      transformModified: 1
+    - name: ArmHand:pCylinder1
+      position: {x: -.726921558, y: -.0698565394, z: -.0271575991}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .571619987, y: .954479337, z: 1.33386445}
+      transformModified: 1
+    - name: joint8
+      position: {x: -.608928144, y: 2.05244871e-15, z: 1.65548741e-10}
+      rotation: {x: 0, y: 0, z: -.029769158, w: .999556839}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ArmHand:pCube4
+      position: {x: -.371602535, y: .0174404178, z: -.00507181464}
+      rotation: {x: 7.44019424e-09, y: 4.16110091e-10, z: .0219190437, w: .999759793}
+      scale: {x: .594452441, y: .271835208, z: .271835208}
+      transformModified: 1
+    - name: ArmHand:pSphere2
+      position: {x: -.468786955, y: -.00968205743, z: .00404467341}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .130319491, y: .284984201, z: .284984201}
+      transformModified: 1
+    - name: joint9
+      position: {x: -.652554333, y: -2.51870303e-16, z: 7.55777996e-10}
+      rotation: {x: -.0106281266, y: .484764814, z: .0191699583, w: .87436986}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ArmHand:pCube5
+      position: {x: -.0545931384, y: .00715901004, z: -.0970592499}
+      rotation: {x: -1.69081721e-15, y: -.484881312, z: 1.17634348e-15, w: .874579966}
+      scale: {x: .222247332, y: .0968454927, z: .207004249}
+      transformModified: 1
+    - name: ArmHand:pSphere3
+      position: {x: .169390485, y: -.0268017799, z: .552190602}
+      rotation: {x: -4.22176441e-16, y: 1.79104432e-30, z: 4.24240729e-15, w: 1}
+      scale: {x: .146337062, y: .335823804, z: .157112822}
+      transformModified: 1
+    - name: ArmHand:pSphere5
+      position: {x: -.488779932, y: -.0268017799, z: .323098004}
+      rotation: {x: -4.22176441e-16, y: 1.79104432e-30, z: 4.24240729e-15, w: 1}
+      scale: {x: .125220403, y: .287363917, z: .134441197}
+      transformModified: 1
+    - name: ArmHand:pSphere6
+      position: {x: -.488779932, y: -.0268017799, z: .00849131308}
+      rotation: {x: -4.22176441e-16, y: 1.79104432e-30, z: 4.24240729e-15, w: 1}
+      scale: {x: .125220403, y: .287363917, z: .134441197}
+      transformModified: 1
+    - name: ArmHand:pSphere7
+      position: {x: -.488779932, y: -.0268017799, z: -.315475821}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .125220403, y: .287363917, z: .134441197}
+      transformModified: 1
+    - name: joint19
+      position: {x: -.136557534, y: -4.93273111e-17, z: 2.91433544e-16}
+      rotation: {x: 0, y: .101994321, z: -0, w: .994785011}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ArmHand:pCube6
+      position: {x: -.0394819491, y: .00478147017, z: -.00121505151}
+      rotation: {x: -1.70731105e-15, y: -.697998285, z: 1.18587313e-15, w: .716099441}
+      scale: {x: .0450916439, y: .0450916439, z: .0740629882}
+      transformModified: 1
+    - name: ArmHand:pSphere4
+      position: {x: -.0279473513, y: -.00483663101, z: .571305156}
+      rotation: {x: 0, y: .102095924, z: -0, w: .99477458}
+      scale: {x: .45079881, y: .466320992, z: .293685168}
+      transformModified: 1
+    - name: joint20
+      position: {x: -.0860744044, y: 2.72933537e-17, z: -1.45716772e-16}
+      rotation: {x: 0, y: -.258076102, z: -0, w: .966124594}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ArmHand:pCube7
+      position: {x: -.0302271433, y: .00478147017, z: -.000309431838}
+      rotation: {x: -8.25007444e-16, y: -.698429644, z: 1.84508679e-15, w: .715678751}
+      scale: {x: .0386730954, y: .0386730954, z: .0635205209}
+      transformModified: 1
+    - name: joint21
+      position: {x: -.0685411543, y: -9.32802643e-17, z: 6.31439345e-16}
+      rotation: {x: .00119429431, y: .940270841, z: .000432402099, w: .340424985}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint22
+      position: {x: -.17400524, y: -7.21644966e-16, z: -.157684058}
+      rotation: {x: 0, y: -.474182039, z: -0, w: .880426824}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ArmHand:pCube8
+      position: {x: -.0551642925, y: .00522390241, z: -.00223143748}
+      rotation: {x: -9.24952567e-16, y: -.012192402, z: 1.83751135e-15, w: .999925673}
+      scale: {x: .0957527384, y: .0397955738, z: .0487943739}
+      transformModified: 1
+    - name: ArmHand:pSphere8
+      position: {x: -.499610633, y: -.0165979303, z: .0331785828}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .215922475, y: .519534349, z: .42372033}
+      transformModified: 1
+    - name: joint23
+      position: {x: -.107974388, y: -3.88578059e-16, z: -1.94289029e-16}
+      rotation: {x: 0, y: -.00473055476, z: -0, w: .999988854}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ArmHand:pCube11
+      position: {x: -.0294179656, y: .00522390241, z: -.00276795658}
+      rotation: {x: -9.16214469e-16, y: -.00746206334, z: 1.84186658e-15, w: .999972165}
+      scale: {x: .0529788844, y: .0397955738, z: .0441587754}
+      transformModified: 1
+    - name: ArmHand:pSphere12
+      position: {x: -.490788639, y: -.0165979303, z: .0187450964}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .321761072, y: .428352743, z: .386028439}
+      transformModified: 1
+    - name: joint24
+      position: {x: -.0588043779, y: -1.66533454e-16, z: -7.18175519e-16}
+      rotation: {x: 0, y: -.00746206334, z: -0, w: .999972165}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ArmHand:pCube14
+      position: {x: -.0293704513, y: .00522390241, z: -.00201099832}
+      rotation: {x: -9.02389091e-16, y: -1.98886047e-15, z: 1.84865216e-15, w: 1}
+      scale: {x: .0506754704, y: .0341468453, z: .0378907174}
+      transformModified: 1
+    - name: joint25
+      position: {x: -.0666960478, y: -2.77555756e-16, z: -5.10008702e-16}
+      rotation: {x: 0, y: .484881312, z: -0, w: .874579966}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint26
+      position: {x: -.119670913, y: -8.32667268e-16, z: -.191623539}
+      rotation: {x: 0, y: -.491115481, z: -0, w: .871094465}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ArmHand:pCube10
+      position: {x: -.0626013726, y: .00522390241, z: -.00144730392}
+      rotation: {x: -8.89109097e-16, y: .0071423105, z: 1.8550498e-15, w: .999974489}
+      scale: {x: .112703502, y: .0397955738, z: .0487943739}
+      transformModified: 1
+    - name: ArmHand:pSphere9
+      position: {x: -.500932992, y: -.0165979303, z: -.0218663197}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .183447435, y: .519534349, z: .42372033}
+      transformModified: 1
+    - name: joint27
+      position: {x: -.122873671, y: -4.4408921e-16, z: 5.55111512e-17}
+      rotation: {x: 0, y: .0146039845, z: -0, w: .999893367}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ArmHand:pCube13
+      position: {x: -.0282966476, y: .00522390241, z: -.00078896276}
+      rotation: {x: -9.16214469e-16, y: -.00746206334, z: 1.84186658e-15, w: .999972165}
+      scale: {x: .0529788844, y: .0397955738, z: .0441587754}
+      transformModified: 1
+    - name: ArmHand:pSphere11
+      position: {x: -.437501341, y: -.0165979303, z: -.0291353371}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .321761072, y: .428352743, z: .386028439}
+      transformModified: 1
+    - name: joint28
+      position: {x: -.0588043779, y: -1.66533454e-16, z: 4.85722573e-17}
+      rotation: {x: 0, y: -.0138715925, z: -0, w: .999903798}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ArmHand:pCube16
+      position: {x: -.0271600075, y: .00522390241, z: -.00210468587}
+      rotation: {x: -8.90473138e-16, y: .00640986161, z: 1.85439822e-15, w: .999979496}
+      scale: {x: .0506754704, y: .0341468453, z: .0378907174}
+      transformModified: 1
+    - name: joint29
+      position: {x: -.0684568286, y: -2.22044605e-16, z: -3.53883589e-16}
+      rotation: {x: 0, y: .490477294, z: -0, w: .871454}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint30
+      position: {x: -.0622655191, y: -9.99200722e-16, z: -.230585471}
+      rotation: {x: 0, y: -.492151916, z: -0, w: .870509386}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ArmHand:pCube9
+      position: {x: -.0525874719, y: .00522390241, z: -.000636428245}
+      rotation: {x: -8.86891671e-16, y: .00833246578, z: 1.85610647e-15, w: .99996531}
+      scale: {x: .0957527384, y: .0397955738, z: .0487943739}
+      transformModified: 1
+    - name: ArmHand:pSphere10
+      position: {x: -.499610633, y: -.0165979303, z: -.0288414676}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .215922475, y: .519534349, z: .42372033}
+      transformModified: 1
+    - name: joint31
+      position: {x: -.105324171, y: -3.88578059e-16, z: -1.5959456e-16}
+      rotation: {x: 0, y: .0297436416, z: -0, w: .999557555}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ArmHand:pCube12
+      position: {x: -.0294340122, y: .00522390241, z: -.00114388776}
+      rotation: {x: -9.41928907e-16, y: -.0214138292, z: 1.82890126e-15, w: .999770701}
+      scale: {x: .0529788844, y: .0397955738, z: .0441587754}
+      transformModified: 1
+    - name: ArmHand:pSphere13
+      position: {x: -.504204929, y: -.0165979303, z: -.00658702292}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .321761072, y: .428352743, z: .386028439}
+      transformModified: 1
+    - name: joint32
+      position: {x: -.0614869557, y: -1.66533454e-16, z: -2.08166817e-17}
+      rotation: {x: 0, y: -.00826051366, z: -0, w: .999965906}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ArmHand:pCube15
+      position: {x: -.0267094001, y: .00522390241, z: -.00142762007}
+      rotation: {x: -9.26727419e-16, y: -.0131544806, z: 1.83662069e-15, w: .999913514}
+      scale: {x: .0506754704, y: .0341468453, z: .0378907174}
+      transformModified: 1
+    - name: joint33
+      position: {x: -.0667191371, y: -2.22044605e-16, z: -5.30825384e-16}
+      rotation: {x: 0, y: .47333473, z: -0, w: .88088268}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint49
+      position: {x: .00279697496, y: .085247539, z: 1.27028732e-09}
+      rotation: {x: 0, y: 0, z: -.691870987, w: .722021163}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: headFinished_for_import:pCube2
+      position: {x: -.0919573158, y: -.0103589986, z: -.0153990826}
+      rotation: {x: -.690953314, y: .722899377, z: 5.38600275e-09, w: -5.14798693e-09}
+      scale: {x: .400000006, y: .400000006, z: .400000006}
+      transformModified: 1
+    - name: joint50
+      position: {x: -.304291308, y: -8.67361738e-18, z: 4.53017224e-09}
+      rotation: {x: 0, y: 0, z: .691870987, w: .722021163}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint11
+      position: {x: .212124899, y: -.338362902, z: 0}
+      rotation: {x: 0, y: 0, z: .999748886, w: .022410972}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint12
+      position: {x: -.861331463, y: 1.20042865e-15, z: 0}
+      rotation: {x: 0, y: 0, z: .0188726243, w: .999821901}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint13
+      position: {x: -.810817003, y: -3.78169718e-16, z: 0}
+      rotation: {x: .999970675, y: .00765955308, z: 4.6901239e-19, w: 6.12305427e-17}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint14
+      position: {x: -.374702454, y: -9.72312508e-16, z: -1.19022471e-31}
+      rotation: {x: -.00412051426, y: .999991536, z: 6.12318199e-17, w: -2.52308724e-19}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Legs:pCube3
+      position: {x: -.187204301, y: .0123689212, z: -.12235339}
+      rotation: {x: .702686727, y: .711499393, z: -5.39618097e-19, w: -8.65939252e-17}
+      scale: {x: .456926912, y: .37086916, z: .456926912}
+      transformModified: 1
+    - name: Legs:pCube2
+      position: {x: -.398031414, y: -.0135220774, z: .0602325276}
+      rotation: {x: 0, y: 0, z: -.706096232, w: .708115876}
+      scale: {x: .383791178, y: .761063337, z: .383791178}
+      transformModified: 1
+    - name: Legs:pCylinder2
+      position: {x: .0122112716, y: -.514230549, z: .159003928}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.20857465, y: .504282832, z: 1}
+      transformModified: 1
+    - name: Legs:pCube1
+      position: {x: -.427661657, y: .00522291893, z: .0602325276}
+      rotation: {x: 0, y: 0, z: -.692606449, w: .721315682}
+      scale: {x: .383791178, y: .761063337, z: .383791178}
+      transformModified: 1
+    - name: Legs:pCylinder1
+      position: {x: .0191071946, y: -.553860307, z: -.0140747866}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .82070446, y: .413867176, z: .82070446}
+      transformModified: 1
+    - name: joint15
+      position: {x: .222561315, y: .323682666, z: 0}
+      rotation: {x: -.0135085192, y: .999908745, z: 6.12267509e-17, w: -8.27158227e-19}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint16
+      position: {x: -.859696686, y: -7.04297731e-16, z: -8.66668475e-32}
+      rotation: {x: 0, y: 0, z: .0114875268, w: .999934018}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint17
+      position: {x: -.812313199, y: -1.42681006e-16, z: -2.28540015e-18}
+      rotation: {x: .999916792, y: .0129028102, z: 7.90069258e-19, w: 6.12272472e-17}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint18
+      position: {x: -.382705748, y: -1.54910806e-15, z: 2.28540015e-18}
+      rotation: {x: -0, y: 0, z: .999940813, w: -.0108818021}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCube3
+      position: {x: -.179010272, y: -.0162040014, z: .12235339}
+      rotation: {x: .700877607, y: .713281572, z: 1.54866567e-16, w: -2.44972596e-16}
+      scale: {x: .456926912, y: .37086916, z: -.456926912}
+      transformModified: 1
+    - name: pCube2
+      position: {x: -.39192158, y: .0165362172, z: -.0602325276}
+      rotation: {x: 4.44554588e-17, y: 4.21083405e-17, z: -.704178929, w: .710022628}
+      scale: {x: .383791178, y: .761063337, z: -.383791178}
+      transformModified: 1
+    - name: pCylinder2
+      position: {x: .0122112716, y: -.514230549, z: .159003928}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.20857465, y: .504282832, z: 1}
+      transformModified: 1
+    - name: pCube1
+      position: {x: -.420707703, y: .0335026234, z: -.0602325276}
+      rotation: {x: 4.3968802e-17, y: 4.26162393e-17, z: -.695976019, w: .718065023}
+      scale: {x: .383791178, y: .761063337, z: -.383791178}
+      transformModified: 1
+    - name: pCylinder1
+      position: {x: .0191071946, y: -.553860307, z: -.0140747866}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .82070446, y: .413867176, z: .82070446}
+      transformModified: 1
+    - name: lowerTorso:pCube1
+      position: {x: -.128055602, y: .00614250079, z: .0399391279}
+      rotation: {x: 0, y: 0, z: .70561254, w: .708597898}
+      scale: {x: .709995508, y: .613433599, z: .46593228}
+      transformModified: 1
+    - name: pSphere15
+      position: {x: -.478634536, y: -.543290198, z: .045261234}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.40845954, y: 1.63016832, z: 2.14623451}
+      transformModified: 1
+    - name: pSphere16
+      position: {x: .472499609, y: -.543290198, z: .045261234}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.40845954, y: 1.63016832, z: 2.14623451}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 
